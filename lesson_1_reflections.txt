@@ -1,0 +1,15 @@
+Because it done the most boring part in searching bug - scrolling through
+the document.
+I think that when you go through all your changes and mistakes you
+can remember them and do not repeat them in future.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Your commits will have logic and it will be easier to choose the moment, when you will want to revert version.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because Git was designed as version control system for programmes. Google Doc, Dropbox, etc. were not.
+How can you use the commands git log and git diff to view the history of files?
+git log to see all the commits history with some notes and commit ids
+git diff to compare commits using commit ids from the git log
+How might using version control make you more confident to make changes that could break something?
+It is definitely can make me more brave in changes and experiements. 
+Now that you have your workspace set up, what do you want to try using Git for?
+For my projects in future iOS Development Udacity courses.
