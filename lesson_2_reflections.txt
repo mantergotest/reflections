@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 I create .git folder, where logs and commits will be stored. 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Working directory - all stored files. Staging area - files waiting for commit. This concept helps to commit only needed files.
+How can you use the staging area to make sure you have one commit per logical change?
+Use git change, to check differences between staging area and ur last commit.
+How do the diagrams help you visualize the branch structure?
+It was pretty clear without diagramms.
