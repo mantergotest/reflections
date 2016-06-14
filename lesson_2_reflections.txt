@@ -6,3 +6,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 Use git change, to check differences between staging area and ur last commit.
 How do the diagrams help you visualize the branch structure?
 It was pretty clear without diagramms.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch, that contains both commits from 2 branches.
