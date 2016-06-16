@@ -10,3 +10,5 @@ What is the benefit of having a copy of the last known state of the remote store
 Just to know what changes ur teammates done, when u offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Just use some cloud storage. Harder: there will be a lot of copies of the project and numerous txt files with comments.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When i am not sure about necessity of new feature.
